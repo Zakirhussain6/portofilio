@@ -8,15 +8,17 @@ A clean, modern, and professional Flutter portfolio app that showcases my profil
 
 ### Welcome Screen
 
-![Welcome Screen](screenshots/welcome_screen.png)
+(https://github.com/Zakirhussain6/portofilio/blob/main/ss/Screenshot_20251125_191359.png)
 
 ### Profile Screen
 
-![Profile Screen](screenshots/profile_screen.png)
+(https://github.com/Zakirhussain6/portofilio/blob/main/ss/Screenshot_20251125_191425.png)
+(https://github.com/Zakirhussain6/portofilio/blob/main/ss/Screenshot_20251125_191432.png)
 
 ### About Me Screen
 
-![About Me Screen](screenshots/about_me_screen.png)
+(https://github.com/Zakirhussain6/portofilio/blob/main/ss/Screenshot_20251125_191438.png)
+(https://github.com/Zakirhussain6/portofilio/blob/main/ss/Screenshot_20251125_191444.png)
 
 ---
 
